@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Bulbasaur",
+        "types": [
+            5,
+            8
+        ],
+        "attack_stat": 49,
+        "defense_stat": 49,
+        "evolution": "Ivysaur",
+        "evolution_level": 15
+    },
+    {
+        "name": "Machamp",
+        "types": [
+            7,
+            0
+        ],
+        "attack_stat": 130,
+        "defense_stat": 80
+    }
+]
